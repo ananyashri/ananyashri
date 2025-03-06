@@ -32,7 +32,7 @@
 
 ## 🎵 Now Playing
 
-[![Now Playing](https://status.nmoo.dev/now-playing)](https://status.nmoo.dev/now-playing?open)
+[![Now Playing](https://status.dreamofyou.dev/now-playing)](https://status.dreamofyou.dev/now-playing?open)
 
 ---
 
@@ -43,21 +43,21 @@
     <tr>
       <td>
         <a href="https://status.nmoo.dev/top-tracks?i=1&open">
-          <img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64">
+          <img src="https://status.dreamofyou.dev/top-tracks?i=1" width="540" height="64">
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://status.nmoo.dev/top-tracks?i=2&open">
-          <img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64">
+          <img src="https://status.dreamofyou.dev/top-tracks?i=2" width="540" height="64">
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://status.nmoo.dev/top-tracks?i=3&open">
-          <img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64">
+          <img src="https://status.dreamofyou.dev/top-tracks?i=3" width="540" height="64">
         </a>
       </td>
     </tr>
